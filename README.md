@@ -1,3 +1,4 @@
+
 # ESP-11-WiFi-Shield
 ###### Technical Manual, Sample Code, Firmwares and Flasher
 - Join Github and follow for more updates...
@@ -44,6 +45,9 @@ Read this https://github.com/e-Gizmo/ESP-11-WiFi-Shield/blob/master/LUA%20connec
 
 ## NEW!!! [ESP - 12-E] (http://www.e-gizmo.com/oc)
 ![imgur](http://i.imgur.com/znpQmhA.jpg)
+###### PINOUTS
+![imgur](http://i.imgur.com/xDFSHlI.png)
+
 ## [ESP - 07](http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=29&search=esp)
 ![imgur](http://i.imgur.com/1vnnuUk.png)
 ###### PINOUTS
