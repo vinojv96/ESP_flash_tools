@@ -1,0 +1,7 @@
++IPD,0,345:GET /?pin=13 HTTP/1.1
+Host: 192.168.4.1
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent:Moila/.0(inow N 61;WO64 AplWeKi/57.6(KTM, ik Gco)Chom/3.0211.5 afri53.3
+Acep-Ecoin: zp,delae,sdh
+Acep-Lngag: nUSenq=.8

@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>ESPWirelessController</title>
+	</head>
+	<body>
+	
+	<!-- in the <button> tags below the ID attribute is the value sent to the arduino -->
+	
+	<button id="11" class="led">LED 1</button> <!-- button for pin 11 --><br>
+	<button id="12" class="led">LED 2</button> <!-- button for pin 12 --><br>
+	<button id="13" class="led">LED 3</button> <!-- button for pin 13 --><br>
+		
+	<script src="jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".led").click(function(){
+				var p = $(this).attr('id'); // get id value (i.e. pin13, pin12, or pin11)
+				// send HTTP GET request to the IP address with the parameter "pin" and value "p", then execute the function
+				$.get("http://192.168.4.1:80/", {pin:p}); // execute get request
+			});
+		});
+	</script>
+	</body>
+</html>
+ 

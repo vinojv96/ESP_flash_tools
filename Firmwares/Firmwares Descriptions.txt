@@ -1,0 +1,13 @@
+Please read this!!!
+by E-gizmo Mechatronix Central
+
+UPDATING FIRMWARE VERSIONS
+
+"ESP_8266_BIN0.92.bin" - is to set ESP into the default firmware device name  "AI-Thinker"
+
+"nodemcu_float_0.9.5_20150318.bin" - is for ESP -07 and up as webserver
+See the sample power point LUA connect to wifi (As webserver)
+
+"nodemcu_latest.bin" - is for ESP11 as webserver
+
+"v0.9.2.2 AT Firmware.bin" - is for AT commands using Arduino programming or manual AT commands

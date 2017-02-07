@@ -1,0 +1,1550 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM1': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM8': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM8': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM4': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM12': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM12': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM12': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM12': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM8': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM1': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM1': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM6': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM15': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM15': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM13': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM13': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-30:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-39:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-18:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-19:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-20:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM5': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM11': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM11': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(5, 'Access is denied.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM3': WindowsError(2, 'The system cannot find the file specified.')
+
